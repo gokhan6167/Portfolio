@@ -1,0 +1,24 @@
+.rezer{
+    text-decoration: none;
+    transition: 2s;
+    padding: 6px;
+}
+.rezer:hover{
+    background-color: white;
+    color: black;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.button{
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .sg {
+      display: none;
+    }
+  }
+  
